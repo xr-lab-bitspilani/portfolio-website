@@ -1,0 +1,24 @@
+# Main Title
+main:
+  header:
+    title : "AR/VR Lab, BITS Pilani" # Title Text
+    description : "Unleashing the power of AR/VR technology for a truly immersive learning experience" # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About us"
+  desc: "Welcome to the AR/VR lab at BITS Pilani, where innovation meets education. Our state-of-the-art lab is designed to offer students an immersive learning experience like never before. With the help of the latest AR/VR technology, students can visualize complex concepts and theories in a more interactive and engaging manner, making learning a fun and intuitive experience."
+  button:
+    enable: false
+    text: "Button"
+    url: "#"
+  image: "assets/img/about.jpg"
+
+projects:
+  card1:
+    title: "Backed by Alumni"
+    text: "At BITS Pilani, we take pride in our alumni and their contributions to the world of technology. Many of our graduates have gone on to become pioneers in the field of AR/VR technology, and their expertise has been invaluable in the development of our state-of-the-art lab. Our alumni have played a significant role in providing us with the resources and guidance needed to build a world-class AR/VR lab. Their generous contributions have enabled us to equip the lab with the latest technology, software, and hardware. Their insights and expertise have helped shape our curriculum and ensure that our students receive a comprehensive education in AR/VR technology. We are proud to be backed by such a talented and dedicated community of alumni, who continue to support our mission of providing the best education and resources to our students. We are confident that their contributions will help our students develop the skills they need to succeed in the competitive world of technology."
+    img: "assets/img/demo-image-01.jpg"
